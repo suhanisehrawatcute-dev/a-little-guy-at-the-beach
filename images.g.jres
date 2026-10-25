@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAA8P//DwAAAADw////DwAAAP///0/+AAAA//8f5DMAAAD///4kMwAAAP//7iQzAAAA///v/zMAAADw//8A/wAAAADwDwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player rihgt"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAA0AAAAAAAAADdAAAAAAAAINIAAAAAANAt0g8AAAAA0C3S/w8AAADQLdL//w8AANAt0v9P/gAA0C3SH+QzAADQLdL+JDMAANAt0u4kMwAA0C3S7/8zAADQLdL/AP8AANAt0g8AAAAA0C3SAAAAAAAAINIAAAAAAAAA3QAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player with hat"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAA3QAAAAAAACDSAAAAAADQLdIAAAAAANAt0g8AAAAA0C3S/wD/AADQLdLv/zMAANAt0u4kMwAA0C3S/iQzAADQLdIf5DMAANAt0v9P/gAA0C3S//8PAADQLdL/DwAAANAt0g8AAAAAACDSAAAAAAAAAN0AAAAAAAAA0AAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
